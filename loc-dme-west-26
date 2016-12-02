@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <destination>
+    <airport type="string">LOWI</airport>
+    <runway type="string">26</runway>
+  </destination>
+  <route>
+    <wp>
+      <type type="string">offset-navaid</type>
+      <ident type="string">BRENO</ident>
+      <lon type="double">11.376667</lon>
+      <lat type="double">46.98</lat>
+      <radial-deg type="double">299.8916411</radial-deg>
+      <distance-nm type="double">37.7</distance-nm>
+    </wp>
+    <wp n="1">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">11500</altitude-ft>
+      <ident type="string">OEJ</ident>
+      <lon type="double">11.60235</lon>
+      <lat type="double">47.314525</lat>
+      <radial-deg type="double">248.8957227</radial-deg>
+      <distance-nm type="double">20.4</distance-nm>
+    </wp>
+    <wp n="2">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">10500</altitude-ft>
+      <ident type="string">OEJ</ident>
+      <lon type="double">11.60235</lon>
+      <lat type="double">47.314525</lat>
+      <radial-deg type="double">248.8957227</radial-deg>
+      <distance-nm type="double">17.4</distance-nm>
+    </wp>
+    <wp n="3">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">9000</altitude-ft>
+      <ident type="string">OEJ</ident>
+      <lon type="double">11.60235</lon>
+      <lat type="double">47.314525</lat>
+      <radial-deg type="double">248.8957227</radial-deg>
+      <distance-nm type="double">14.4</distance-nm>
+    </wp>
+    <wp n="4">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">7500</altitude-ft>
+      <ident type="string">OEJ</ident>
+      <lon type="double">11.60235</lon>
+      <lat type="double">47.314525</lat>
+      <radial-deg type="double">248.8957227</radial-deg>
+      <distance-nm type="double">11.4</distance-nm>
+    </wp>
+    <wp n="5">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">5000</altitude-ft>
+      <ident type="string">OEJ</ident>
+      <lon type="double">11.60235</lon>
+      <lat type="double">47.314525</lat>
+      <radial-deg type="double">248.8957227</radial-deg>
+      <distance-nm type="double">6.5</distance-nm>
+    </wp>
+    <wp n="6">
+      <type type="string">navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">5000</altitude-ft>
+      <ident type="string">AB</ident>
+      <lon type="double">11.501667</lon>
+      <lat type="double">47.29</lat>
+    </wp>
+    <wp n="7">
+      <type type="string">offset-navaid</type>
+      <ident type="string">AB</ident>
+      <lon type="double">11.501667</lon>
+      <lat type="double">47.29</lat>
+      <radial-deg type="double">113.8975335</radial-deg>
+      <distance-nm type="double">1.2</distance-nm>
+    </wp>
+    <wp n="8">
+      <type type="string">offset-navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">AB</ident>
+      <lon type="double">11.501667</lon>
+      <lat type="double">47.29</lat>
+      <radial-deg type="double">158.8975335</radial-deg>
+      <distance-nm type="double">1.8</distance-nm>
+    </wp>
+    <wp n="9">
+      <type type="string">runway</type>
+      <approach type="bool">true</approach>
+      <ident type="string">26</ident>
+      <icao type="string">LOWI</icao>
+    </wp>
+  </route>
+</PropertyList>
